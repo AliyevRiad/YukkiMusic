@@ -129,7 +129,7 @@ cplay_5 : "Yalnız Kanallar dəstəklənir."
 cplay_6 : "Bu qrupa qoşulmaq üçün kanalın[{0}] **Sahibi** olmalısınız.\n**Kanalın Sahibi:** @{1}\n\nAlternativ olaraq qrupunuzu əlaqələndirə bilərsiniz. həmin kanala və sonra `/channelplay linked` ilə qoşulmağa cəhd edin"
 
 #Play
-play_1 : "🔄 Sorğu emal olunur... Lütfən gözləyin!"
+play_1 : "💎 Sorğu emal olunur... Lütfən gözləyin!"
 play_2 : "**🏷Kanal Oynatma Rejimi**\n\n🔄 Sorğu emal olunur... Lütfən gözləyin!\n**Əlaqələndirilmiş Kanal:** {0}"
 play_3 : "Sorğunu emal etmək alınmadı!"
 play_4 : "🖇 **Yalnız Adminlər Oynadır**\nYalnız Adminlər və Auth İstifadəçiləri bu qrupda musiqi oxuya bilər.\n\nRejimi /playmode vasitəsilə dəyişin və artıq adminsinizsə, /admincache vasitəsilə admincache yenidən yükləyin"
@@ -233,10 +233,10 @@ L_B_1 : "🚀 İndi Mahnıları yoxlayın"
 # Start
 S_B_1 : "🗒 Əmrlər"
 S_B_2 : "🔧 Parametrlər"
-S_B_3 : "📨 Dəstək"
-S_B_4 : "📨 Kanal"
+S_B_3 : "🚀 Dəstək"
+S_B_4 : "📤 Kanal"
 S_B_5 : "✚ Məni öz qrupuna əlavə et"
-S_B_6 : "💡 Git Repo"
+S_B_6 : "🤖 Botlar"
 S_B_7 : "👤 Bot Sahibi"
 S_B_8 : "🔎 Necə İstifadə Edilir? Komandalar Menyu."
 
